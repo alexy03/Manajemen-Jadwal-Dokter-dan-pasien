@@ -32,4 +32,22 @@ Sistem memiliki menu interaktif (1-9) sebagai berikut:
 1. **Lihat Jadwal Praktik Dokter:** Menampilkan jadwal dokter aktif dari data array harian.
 2. **Lihat Kategori Layanan Poli:** Menampilkan visualisasi hierarki poliklinik menggunakan struktur data Tree.
 3. **Tambah Antrean Loket Fisik:** Memasukkan nama pasien baru ke barisan antrean belakang (*Enqueue*).
-4. **P
+4. **Panggil Antrean Loket Fisik:** Memanggil dan mengeluarkan pasien di barisan terdepan (*Dequeue*).
+5. **Lihat Semua Antrean Loket:** Menampilkan seluruh daftar pasien yang sedang mengantre di loket saat ini.
+6. **Daftarkan Data Pasien Tetap:** Menambahkan simpul (*node*) pasien baru secara dinamis ke dalam *Linked List*.
+7. **Lihat Data Pasien Tetap:** Melakukan perulangan (*traversing*) untuk menampilkan semua pasien tetap yang terdaftar di database lokal.
+8. **Input & Cek Rekam Medis Terakhir:** Menyediakan sub-menu untuk menambahkan riwayat medis baru (*Push*) atau melihat rekam medis terakhir pasien (*Peek*).
+9. **Keluar Sistem:** Menutup dan menyudahi jalannya aplikasi.
+
+---
+
+## 🚀 Cara Menjalankan Program
+
+### Prasyarat
+Pastikan komputer Anda sudah terinstal *compiler* C++ (seperti GCC/G++) atau menggunakan IDE yang mendukung (seperti Code::Blocks, Dev-C++, atau VS Code dengan ekstensi C++).
+
+### Langkah-langkah
+1. **Clone Repositori:**
+   ```bash
+   git clone [https://github.com/username-kamu/nama-repositori.git](https://github.com/username-kamu/nama-repositori.git)
+   cd nama-repositori
