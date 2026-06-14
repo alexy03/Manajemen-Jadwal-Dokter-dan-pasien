@@ -1,22 +1,25 @@
-// KELOMPOK 3 
-// KELAS IF210
-// PRODI PJJ Informatika
-// DOSEN PENGAMPU : Ir. Ahmad Chusyairi, M.Kom., CDS., IPM., ASEAN Eng
-/* TUGAS UTS STRUKTUR DATA DAN ALGORITMA
-JUDUL : MANAJEMEN JADWAL DOKTER DAN ANTRIAN PASIEN
-Struktur Data yang digunakan : 
-1. Tipe data dan variabel
-2. Array
-3. Queue
-4. Stack 
-5. Linked List
-6. Tree
-=====================================================
- NAMA :
- 1. ALEXANDRE RAWI RUTO (250401010503)
- =====================================================
+/*======================================================================
+STRUKTUR DATA & ALGORITMA
+========================================================================
+KELOMPOK            : 3 (TIGA)
+KELAS               : IF210
+PRODI               : INFORMATIKA PJJ S1
+DOSEN               : Ir. Ahmad Chusyairi, M.Kom., CDS., IPM., ASEAN Eng
+========================================================================
+NAMA ANGGOTA KELOMPOK :
+1. Rizqi Wahyu Saputra (250401010478)
+2. Boby Sihombing (250401010506)
+3. Al Malik Rendrajati(250401010523)
+4. Alexandre Rawi Ruto(250401010503)
+=========================================================================
+5 Struktur Data yang di Implementasikan
+1. Array                -> menyimpan data dokter(jumlah tetap)
+2. Stack                -> Riwayat aktivitas(LIFO)
+3. Queue                -> Tambah pasien(jumlah terbatas)
+4. Linked List          -> Tambah pasien(jumlah tidak terbatas)
+5. Tree                 -> Kategori pasien berdasarkan umur
+=========================================================================
 */
-
 #include <iostream>
 #include <string>
 
